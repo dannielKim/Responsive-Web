@@ -1,5 +1,8 @@
 # Responsive-Web
-# Responsive-Website Templates
-# Author: 		Travis Kim
-# Website: 		https://github.com/TravisKim188
-# Contact: 		rnfkahd@outlook.kr
+Responsive-Website Templates
+<br>
+Author: 		Travis Kim
+<br>
+Github: 		https://github.com/TravisKim188
+<br>
+Contact: 		rnfkahd@outlook.kr
